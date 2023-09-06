@@ -1,3 +1,3 @@
 # python-echo
 
-### A basic python echo client-server.
+### A basic python echo client-server
